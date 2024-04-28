@@ -1,0 +1,18 @@
+Processing folder: figs_0
+Processing folder: figs_1
+Processing folder: figs_2
+Processing folder: figs_3
+Processing folder: figs_4
+Processing folder: figs_5
+Processing folder: figs_6
+Processing folder: figs_7
+Data Set Includes 4000 Features
+Using 75.0% (3000.0 Features) for Training
+Using 25.0% (1000.0 Features) for Testing
+Training Model
+Test Model
+FRR Avg: 0.6990, Min: 0.6990, Max: 0.6990
+FAR Avg: 0.3010, Min: 0.3010, Max: 0.3010
+EER Avg: 0.5000
+
+Process finished with exit code 0

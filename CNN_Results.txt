@@ -1,0 +1,30 @@
+Processing folder: figs_0
+Processing folder: figs_1
+Processing folder: figs_2
+Processing folder: figs_3
+Processing folder: figs_4
+Processing folder: figs_5
+Processing folder: figs_6
+Processing folder: figs_7
+Data Set Includes 4000 Features
+Using 75.0% (3000.0 Features) for Training
+Using 25.0% (1000.0 Features) for Testing
+Training Model
+Epoch 1/10
+75/75 [==============================] - 299s 4s/step - loss: 2.5797 - accuracy: 0.2229 - val_loss: 1.6058 - val_accuracy: 0.2550
+....
+Epoch 5/10
+75/75 [==============================] - 266s 4s/step - loss: 0.9270 - accuracy: 0.6137 - val_loss: 0.9536 - val_accuracy: 0.5933
+...
+Epoch 10/10
+75/75 [==============================] - 235s 3s/step - loss: 0.4105 - accuracy: 0.8350 - val_loss: 1.0086 - val_accuracy: 0.6317
+...
+Epoch 15/15
+75/75 [==============================] - 269s 4s/step - loss: 0.1858 - accuracy: 0.9388 - val_loss: 1.8851 - val_accuracy: 0.5617
+Testing Model
+32/32 [==============================] - 26s 802ms/step
+FRR Avg: 0.4456, Min: 0.1512, Max: 0.7488
+FAR Avg: 0.1110, Min: 0.0502, Max: 0.2193
+EER Avg: 0.2783
+
+Process finished with exit code 0

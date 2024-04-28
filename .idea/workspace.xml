@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9993a629-9e9b-42d3-a81b-fb95bee50f9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fUMRftbVuwCDZmmds7NyldQCCI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.Hybrid">
+    <configuration name="CNN" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Hybrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hybrid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MSE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MSE.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\asus\Google Drive\Spring 2024 Senior Year\CSEC-472 Authentication &amp; Security Models\NFC Tap-to-Pay Authenication Project\Labs\Lab 4; Biometrics\Assets\SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Hybrid" />
+        <item itemvalue="Python.SVM" />
+        <item itemvalue="Python.MSE" />
+        <item itemvalue="Python.CNN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9993a629-9e9b-42d3-a81b-fb95bee50f9f" name="Default Changelist" comment="" />
+      <created>1713851196858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713851196858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1713887278730">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1713887278730" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1713898441618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1713898441618" />
+    <state x="-1814" y="-44" width="1581" height="491" key="#xdebugger.XInspectDialog" timestamp="1714201666708">
+      <screen x="-3440" y="-368" width="3440" height="1400" />
+    </state>
+    <state x="-1814" y="-44" width="1581" height="491" key="#xdebugger.XInspectDialog/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714201666708" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1713863480591">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1713863480591" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1714205168121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168121" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1714205168121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168121" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1714205168121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168121" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1714205168121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168121" />
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1714205168111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168111" />
+    <state width="1899" height="396" key="GridCell.Tab.1.center" timestamp="1714205168111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.center/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168111" />
+    <state width="1899" height="396" key="GridCell.Tab.1.left" timestamp="1714205168111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.left/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168111" />
+    <state width="1899" height="396" key="GridCell.Tab.1.right" timestamp="1714205168111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714205168111" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1714193994167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3440.-368.3440.1400@0.0.1920.1040" timestamp="1714193994167" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

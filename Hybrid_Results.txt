@@ -1,0 +1,24 @@
+{'cnn': [0.4455604529823959, 0.15121951219512195, 0.7487684729064039, 0.1110164956501831, 0.050188205771643665, 0.21933085501858737, 0.2782884743162895],
+'mse': [0.06757425742574258, 0.01485148514851485, 0.16336633663366337, 0.9139901477832515, 0.7881773399014779, 0.9901477832512315, 0.47577183826757063],
+'svm': [0.6990000000000001, 0.6990000000000001, 0.6990000000000001, 0.30099999999999993, 0.30099999999999993, 0.30099999999999993, 0.5]}
+
+Processing folder: figs_0
+Processing folder: figs_1
+Processing folder: figs_2
+Processing folder: figs_3
+Processing folder: figs_4
+Processing folder: figs_5
+Processing folder: figs_6
+Processing folder: figs_7
+Testing CNN Model
+Testing MSE Model
+Testing SVM Model
+Testing MSE Model Complete
+32/32 [==============================] - 38s 1s/step
+Testing CNN Model Complete
+Testing SVM Model Complete
+FRR Avg: 0.4040, Min: 0.2884, Max: 0.5370
+FAR Avg: 0.4420, Min: 0.3798, Max: 0.5035
+EER Avg: 0.4180
+
+Process finished with exit code 0
